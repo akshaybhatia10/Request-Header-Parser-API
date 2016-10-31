@@ -1,16 +1,7 @@
 var express = require("express"),
     app     = express();
     
-(function() {
-	// Get page title
-  	var pageTitle = ("Request-Header-Parser-API").text();
-
-	
-	// Change page title back on focus
-	(window).focus(function() {
-	  ("title").text(pageTitle);
-	});
-});    
+  
     
 app.get("/",function(req,res){
     
