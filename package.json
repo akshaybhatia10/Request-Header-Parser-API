@@ -1,0 +1,22 @@
+{
+  "name": "request-header-parser-api",
+  "version": "1.0.0",
+  "description": "Returns your ip address,language,operating system in jSON",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaybhatia10/Request-Header-Parser-API.git"
+  },
+  "author": "akshaybhatia10@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaybhatia10/Request-Header-Parser-API/issues"
+  },
+  "homepage": "https://github.com/akshaybhatia10/Request-Header-Parser-API#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
