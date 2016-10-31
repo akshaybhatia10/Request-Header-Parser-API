@@ -13,7 +13,7 @@ I can get the IP address, language and operating system for my browser.
 ## Example usage:
 
 ```url
-https://request-header-api.herokuapp.com
+https://sys-info-api.herokuapp.com/
 ```
 
 ## Example output:
