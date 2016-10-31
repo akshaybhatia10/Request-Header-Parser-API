@@ -19,5 +19,5 @@ https://request-header-api.herokuapp.com
 ## Example output:
 
 ```json
-{"ipaddress":"xxx.xxx.xxx.xxx","language":"en-US","software":"X11; Linux x86_64"}
+{"ipaddress":"192.168.1.1","language":"en-US","software":"X11; Linux x86_64"}
 ```
